@@ -2,7 +2,7 @@ import Image from "next/image";
 import { Grid } from "../Grid/Grid";
 import { ButtonStore } from "./ButtonStore";
 import ArrowDrown from "@/assets/arrow-explorer.svg"
-import Woman from "@/assets/woman.png"
+import Woman from "@/assets/woman.webp"
 
 export function SectionHero() {
     return (

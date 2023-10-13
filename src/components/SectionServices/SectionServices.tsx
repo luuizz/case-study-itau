@@ -5,7 +5,7 @@ import IconSolutions from "@/assets/icon-solutions.svg"
 import IconDiversosOpcoes from "@/assets/icon-options.svg"
 import IconCard from "@/assets/icon-card.svg"
 
-import ImagePhone from "@/assets/phone.png"
+import ImagePhone from "@/assets/phone.webp"
 
 export function SectionServices() {
 

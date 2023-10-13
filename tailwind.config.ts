@@ -13,7 +13,7 @@ module.exports = {
       'mobile': { 'max': '560px' },
     },
     backgroundImage: {
-      'img_bg_hero': "url('../assets/bg-hero.jpg')",
+      'img_bg_hero': "url('../assets/bg-hero.webp')",
     },
     extend: {
       lineHeight: {
